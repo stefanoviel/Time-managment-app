@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="it.unitn.lingprogmod1.viel.playing.Main" />
+    <module name="lezione" />
+    <option name="VM_PARAMETERS" value="--module-path C:\Users\stefi\myjava\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="it.unitn.lingprogmod1.viel.playing.Main" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
